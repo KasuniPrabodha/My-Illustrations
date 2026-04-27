@@ -37,7 +37,7 @@ Are you looking for a custom design for your brand or business? I am now accepti
 * Social Media Posters
 * Vector Illustrations
 
-📩 **Direct Message me on [LinkedIn](https://www.linkedin.com/in/kasuni-prabodha) for inquiries!**
+📩 **Direct Message me on my GitHub & Check out my creative designs and coding projects [LinkedIn](https://www.linkedin.com/in/kasuni-prabodha) for inquiries!**
 
 ---
 © 2026 Kasuni Prabodha. All rights reserved.
