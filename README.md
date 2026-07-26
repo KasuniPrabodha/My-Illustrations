@@ -17,10 +17,9 @@ Welcome to my creative space! This repository showcases a collection of graphic 
 Here is a preview of a premium business card design I recently completed.
 
 ![Business Card 1](Business-Cards/card-design-1.png)
-![Business Card 2](Business-Cards/card-design-2.png)
-![Business Card 4](Business-Cards/card-design-4.png)
 ![Business Card 5](Business-Cards/card-design-5.png)
 ![Posters](Posters/Poster1.png).
+![Magazine_Pages](Magazine_Pages/Magazine_Page_1.png).
 
 > **Note:** Each folder contains the high-quality **PNG** image and the original **AI (Source File)** for reference.
 
