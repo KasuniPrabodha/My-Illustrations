@@ -10,8 +10,6 @@ Welcome to my creative space! This repository showcases a collection of graphic 
 
 ## 🛠️ Tools & Technologies
 * **Adobe Illustrator:** Primary tool for vector art and layouts.
-* **Adobe Photoshop:** For mockups and photo editing.
-* **Canva:** For quick social media graphics.
 
 ---
 
