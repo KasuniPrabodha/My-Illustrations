@@ -18,11 +18,8 @@ Here is a preview of a premium business card design I recently completed.
 
 ![Business Card 1](Business-Cards/card-design-1.png)
 ![Business Card 2](Business-Cards/card-design-2.png)
-![Business Card 3](Business-Cards/card-design-3.png)
 ![Business Card 4](Business-Cards/card-design-4.png)
 ![Business Card 5](Business-Cards/card-design-5.png)
-![Business Card 6](Business-Cards/card-design-6.png)
-![Business Card 7](Business-Cards/card-design-7.png)
 
 > **Note:** Each folder contains the high-quality **PNG** image and the original **AI (Source File)** for reference.
 
