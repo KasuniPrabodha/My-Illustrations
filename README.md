@@ -14,19 +14,22 @@ Welcome to my creative space! This repository showcases a collection of graphic 
 ---
 
 <h3>Featured Design: Professional Business Card</h3>
-<p>Here is a preview of a premium business card design I recently completed.</p>
+<p>Here is a preview of premium business card designs I recently completed.</p>
 
-<img src="Business-Cards/card-design-1.png" width="450">
-<br>
-<img src="Business-Cards/card-design-5.png" width="450">
-<br>
-<img src="Posters/Poster1.png" width="450">
-<br>
-<img src="Magazine_Pages/Magazine_Page_1.png" width="450">
-<br>
-<img src="Magazine_Pages/Magazine_Page_4.png" width="450">
-
-> **Note:** Each folder contains the high-quality **PNG** image and the original **AI (Source File)** for reference.
+<table>
+  <tr>
+    <td><img src="Business-Cards/card-design-1.png" width="450"></td>
+    <td><img src="Business-Cards/card-design-5.png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="Posters/Poster1.png" width="450"></td>
+    <td><img src="Posters/Poster2.png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="Magazine_Pages/Magazine_Page_1.png" width="450"></td>
+    <td><img src="Magazine_Pages/Magazine_Page_4.png" width="450"></td>
+  </tr>
+</table>
 
 ---
 
