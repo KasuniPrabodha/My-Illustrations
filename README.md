@@ -13,7 +13,7 @@ Welcome to my creative space! This repository showcases a collection of graphic 
 
 ---
 
-[🎨 View My Behance Portfolio]([https://www.behance.net/your-profile-link](https://www.behance.net/kasuniwaravita))
+[🎨 View My Behance Portfolio](https://www.behance.net/kasuniwaravita)
 
 ---
 
